@@ -7,7 +7,7 @@
  
  👯 I’m looking to collaborate on any web project
  
-  💬 Ask me about html,CSS, javascript, vue, react, php and mysql
+  💬 Ask me about python, Django, javascript, vue, php and mysql
   
  📫 How to reach me: theurij113@gmail.com
  
