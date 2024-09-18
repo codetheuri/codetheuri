@@ -2,13 +2,9 @@
 
 
 🔭 I’m currently working on something cool
+   
+   Problem-Solver
 
- 🌱 I’m currently learning Yii and Django
- 
- 👯 I’m looking to collaborate on any web project
- 
-  💬 Ask me about python, Django, javascript, vue, php and mysql
-  
  📫 How to reach me: theurij113@gmail.com
  
   😄 Pronouns: he/him
