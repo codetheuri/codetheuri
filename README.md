@@ -1,12 +1,8 @@
 ### Hi there 👋
 
+I build things, break them, then fix them better.  
+Problem-solver by habit, developer by trade.
 
-🔭 I’m currently working on something cool
-   
-   Problem-Solver
-
- 📫 How to reach me: theurij113@gmail.com
-
-  
- ⚡ Fun fact: Did you know that the first computer bug was an actual bug
-
+🔭 Currently working on something *cool* (and slightly over-engineered)  
+📫 Reach me: theurij113@gmail.com  
+⚡ Fun fact: The first computer bug was real. Debugging has been personal ever since.
